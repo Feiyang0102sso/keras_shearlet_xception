@@ -1,0 +1,28 @@
+#  IDE config files (PyCharm/IntelliJ)
+.idea/
+
+#  Python chunk
+__pycache__/
+*.py[cod]
+
+# sata sets
+data/
+data_processed/
+data.zip
+data_processed.zip
+
+# output
+result*/
+#results/
+
+# server connector
+connect_server.bat
+
+# test file on linux
+linux/
+
+# old files backup
+\!old/
+
+# trained models
+models/
