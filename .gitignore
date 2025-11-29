@@ -16,7 +16,7 @@ result*/
 #results/
 
 # server connector
-connect_server.bat
+*.bat
 
 # test file on linux
 linux/
@@ -26,3 +26,6 @@ linux/
 
 # trained models
 models/
+
+# ducoment for the paper
+documents/
